@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Unity & Tea
+- :orange_book: Focusing on Unity & Shader & Math
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :ram: Enjoy the life
+- :meat_on_bone: Tea lover
